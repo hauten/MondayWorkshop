@@ -1,2 +1,2 @@
 README.md
-Read this first, if you can get this far.
+Read this first, assuming you have gotten this far. If you have, then you are using Git at the command line to manange version control. And then you have to go through the same steps to commit and publish.
